@@ -1,0 +1,39 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+}
+.footer-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 9px;
+}
+
+.fotter-block {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 50px;
+  margin-right: 5px;
+  background-color: rgb(211, 213, 217);
+  border-radius: 5px;
+  font-size: 12px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#enter {
+  width: 65px;
+}
+
+#cancle {
+  width: 65px;
+}
+
+#cancle img {
+  width: 25px;
+}
